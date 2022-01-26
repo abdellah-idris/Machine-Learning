@@ -131,7 +131,7 @@ dmypy.json
 #PyCharm
 
 #xml files
-.xml
+*.xml
 
 #iml file
-.iml
+*.iml
